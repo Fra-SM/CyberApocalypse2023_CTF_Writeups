@@ -2,10 +2,10 @@
 
 In this case we have a .h5 file, which is the file format used in Tensorflow to save and load keras models. With a bit of research, we can discover some of the main commands used to carve out information about the model:
 
-- model.summary
-- model.getConfig()
+- `model.summary`
+- `model.getConfig()`
 
-We can then retrieve the three base64 encoded pieces of our flag by running the following script in a Google Colab Notebook (as an example):
+We can then retrieve the three base64 encoded pieces of our flag by running the following script using, for example, a Google Colab Notebook:
 
 ```python
 from tensorflow import keras
