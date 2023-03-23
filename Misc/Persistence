@@ -16,6 +16,6 @@ for i in range(0, N):
     print(r.text)
 ```
 
-We can grep the results for "HTB{" to find the flag.
+We can then `grep` the results for "HTB{" to find the flag.
 
 ## HTB{y0u_h4v3_p0w3rfuL_sCr1pt1ng_ab1lit13S!}
