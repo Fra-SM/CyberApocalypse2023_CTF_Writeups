@@ -56,6 +56,6 @@ eval( $bhrTeZXazQ );
 
 which is clearly obfuscated. All we have to do to deobfuscate it is changing the last `eval` into an `echo` statement:
 
-![Roten](/Screenshots/Forensics_4.png)
+![Roten](/Screenshots/FORENSICS_4.png)
 
 ## HTB{W0w_ROt_A_DaY}
